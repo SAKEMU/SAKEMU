@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SAKEMU
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Kotlin.
 - 💞️ I’m looking to collaborate on skill shaping.
 - 📫 How to reach me, currently on Github. 
 - 😄 Pronouns: 🕺 ♂️ 🕺
